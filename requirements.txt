@@ -71,6 +71,7 @@ pure-eval @ file:///home/conda/feedstock_root/build_artifacts/pure_eval_16428759
 pydantic==2.4.2
 pydantic_core==2.10.1
 Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1691408637400/work
+pypdf==3.16.2
 PyPika==0.48.9
 python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
 python-dotenv==1.0.0
